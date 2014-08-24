@@ -20,4 +20,6 @@ It's important to note that _swagiftacts_ have to be designed before they can be
 * An article to be read (or touch-typed)
 * Some notes to remind someone who has lost touch with an old piece of _swag_ and needs a reminder
 
+**Step 3: Write it!** Publish it under an open license (such as Creative Commons CC-BY-SA) so that people can copy it, modify it and maybe even earn a living from it.
 
+**Step 4: Improve it** You or someone else can use the _swagifact_ to create audio and video content. Graphics and pictures can be added to activate other learning styles.
